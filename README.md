@@ -34,4 +34,6 @@ Window functions are powerful for detecting duplicates
 Standardizing categorical data is critical for accurate grouping and analysis
 Handling NULLs properly can significantly improve data quality
 
+![1](1.png)
+![2](2.png)
 
